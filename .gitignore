@@ -1,0 +1,19 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignorar dados brutos e processados pesados (boas práticas de versionamento)
+data/raw/
+data/processed/
+!data/.gitkeep
