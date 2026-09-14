@@ -1,0 +1,19 @@
+{
+    "total_registros": 565000,
+    "tempo_execucao_segundos": 5.94,
+    "taxa_aproveitamento_pct": 97.05,
+    "camadas": {
+        "gold": {
+            "linhas": 492615,
+            "pct": 87.19
+        },
+        "imputed": {
+            "linhas": 55741,
+            "pct": 9.87
+        },
+        "quarantine": {
+            "linhas": 16644,
+            "pct": 2.95
+        }
+    }
+}
